@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/shangzhouwan/tv/main/tvxml.xml"
 #EXTM3U
 #央视高清/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视高清",CCTV-1 综合
