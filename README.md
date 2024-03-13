@@ -11,3 +11,8 @@
 
   `https://ghproxy.net/https://raw.githubusercontent.com/shangzhouwan/tv/main/IPTV6.m3u
   https://raw.githubusercontent.com/shangzhouwan/tv/main/IPTV6.m3u`
+
+-------------
+release:v1.0
+`https://cdn.jsdelivr.net/gh/shangzhouwan/tv@v1.0/IPTV4.m3u`
+`https://cdn.jsdelivr.net/gh/shangzhouwan/tv@v1.0/IPTV6.m3u`
