@@ -26,6 +26,8 @@
 
 - [央视台+卫视台+其他地方台直播源4](https://mirror.ghproxy.com/https://raw.githubusercontent.com/shangzhouwan/tv/main/IPTV6.m3u)
 
+- [儿童频道 直播源](https://mirror.ghproxy.com/https://raw.githubusercontent.com/shangzhouwan/tv/main/children.m3u)
+
 ### 直连访问：
 
 - [央视台+卫视台直播源](https://raw.githubusercontent.com/shangzhouwan/tv/main/home.m3u8)
@@ -36,6 +38,7 @@
 
 - [央视台+卫视台+其他地方台直播源3](https://raw.githubusercontent.com/shangzhouwan/tv/main/IPTV6.m3u)
 
+- [儿童频道 直播源](https://raw.githubusercontent.com/shangzhouwan/tv/main/children.m3u)
 
 -------------
 release:v1.0
