@@ -585,9 +585,6 @@
 <channel id="N25">
 <display-name lang="zh">NewTV超级电视剧</display-name>
 </channel>
-<channel id="migu">
-<display-name lang="zh">咪咕直播</display-name>
-</channel>
 <programme start="20240313001600 +0800" stop="20240313005300 +0800" channel="A01">
 <title lang="zh">寻宝-文脉春秋-9</title><desc lang="zh"></desc>
 </programme>
