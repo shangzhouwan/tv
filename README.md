@@ -44,3 +44,14 @@
 release:v1.0
 `https://cdn.jsdelivr.net/gh/shangzhouwan/tv@v1.0/IPTV4.m3u`
 `https://cdn.jsdelivr.net/gh/shangzhouwan/tv@v1.0/IPTV6.m3u`
+
+<!--
+## Star History
+<a href='https://star-history.com/#skddyj/iptv&Date'>
+<picture>
+<source media='(prefers-color-scheme: dark)' srcset='https://api.star-history.com/svg?repos=shangzhouwan/tv&type=Date&theme=dark' />
+<source media='(prefers-color-scheme: light)' srcset='https://api.star-history.com/svg?repos=shangzhouwan/tv&type=Date' />
+<img alt='Star History Chart' src='https://api.star-history.com/svg?repos=shangzhouwan/tv&type=Date' />
+</picture>
+</a>
+-->
